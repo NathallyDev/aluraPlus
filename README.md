@@ -1,2 +1,2 @@
-# Desenvolvimento WEB
- Curso de desenvolvimento WEB
+# Web development
+  WEB development course
